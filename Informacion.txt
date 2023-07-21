@@ -1,2 +1,0 @@
-1) npm init -y (Tener instalado NODE // node --version) (se crea archivo package.json) 
-2) 
